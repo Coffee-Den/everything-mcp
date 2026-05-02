@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "everything-search": {
+      "command": "node",
+      "args": ["F:/SynologyDrive/SynologyDrive/Project/personal/everything-mcp/dist/index.js"],
+      "env": {
+        "EVERYTHING_HOST": "localhost",
+        "EVERYTHING_PORT": "3690"
+      }
+    }
+  }
+}
